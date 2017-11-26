@@ -1,0 +1,1222 @@
+#doc=Kuzminykh.2.txt;;;;;;;;;;;;;;
+1;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+2;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;HEAD;HEAD;NONLEX;;;;;;;;;NONLEX;HEAD;NONLEX
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;¥;…;PART;;;¥;­;;;;;PART;…;PART
+4;§­ ξ...;‡€’...;V ipf praes sg indic - 1p;;;;;;ξ; ;­;V;‡€’...;V ipf praes sg indic - 1p
+5;;;INTJ;;;¬;;;;;;S;;S - - nonflex nonflex
+6;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+7;­γγ..;““..;INTJ;;;;;γ;γ;­;;S;““..;S m inan nonflex nonflex
+8;­γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+10;­ ―ΰ¨¬¥ΰ;€…;PARENTH;;;ΰ;¥;¬;¨;ΰ;―;ADV;€…;ADV -
+11;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+4;§­ ξ;‡€’;V ipf praes sg indic - 1p;;;ξ; ;­;§;;;V;‡€’;V ipf praes sg indic - 1p
+5;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¬¬;;INTJ;;;¬;¬;¬;;;;S;;S n inan loc sg
+2;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+3;§­ ξ;‡€’;V ipf praes sg indic - 1p;;;ξ; ;­;§;;;V;‡€’;V ipf praes sg indic - 1p
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;ηβ®;—’;SPRO sg;;;®;β;η;;;;S;—’;S n - acc sg
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;•¬;•;INTJ;;;¬;ε;;;;;INTJ;•;INTJ
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;†;†;PART;;;¦;;;;;;PART;†;PART
+2;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+3; ª®©;€‰;APRO - nom sg plen m -;;;©;®;ª; ;ª;;A;€‰;A - nom sg plen m -
+4;¦¥;†…;PART;;;¥;¦;;;;;PART;†…;PART
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;ª ª®©;€‰;APRO - nom sg plen f -;;;©;®;ª; ;ª;;A;€‰;A - gen sg plen f -
+7;¦¥..;†…..;PART;;;;;¥;¦;;;PART;†…..;PART
+8; ªγξ;€‰;APRO - acc sg plen f -;;;ξ;γ;ª; ;ª;;A;€‰;A - acc sg plen f -
+9;¦¥;†…;PART;;;¥;¦;;;;;CONJ;†…;CONJ
+10;?!;?!;PUNC;;;;;;;;;PUNC;?!;PUNC
+11;νε;•;INTJ;;;ε;ν;;;;;INTJ;•;INTJ
+12;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;ΰ ααª ¦γ;€‘‘€‡€’;V pf fut sg indic - 1p;;;γ;¦; ;ª;α;α;V;€‘‘€‡€’;V pf fut sg indic - 1p
+2;―ΰ®;;PR;;;®;ΰ;―;;;;PR;;PR
+3;β®;’’;SPRO sg n acc plen;;;®;β;;;;;S;’;S n - acc sg
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;―ΰ®;;PR;;;®;ΰ;―;;;;PR;;PR
+6;β®;’’;SPRO sg n acc plen;;;®;β;;;;;S;’;S n - acc sg
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;―ΰ®;;PR;;;®;ΰ;―;;;;PR;;PR
+9;β®;’’;SPRO sg n acc plen;;;®;β;;;;;S;’;S n - acc sg
+10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+11;―ΰ®;;PR;;;®;ΰ;―;;;;PR;;PR
+12;β®.;’’.;SPRO sg n acc plen;;;;®;β;;;;S;’.;S n inan acc sg
+13;¬¬;;INTJ;;;¬;¬;;;;;INTJ;;INTJ
+14;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+10;―ΰ ;€;PR;distort;; ;ΰ;―;;;;S;€;S f inan nom sg
+11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+13;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;ΰ®;;PR;;;®;ΰ;―;;;;PR;;PR
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;¬®©;‰;A - nom sg plen m -;;;©;®;¬;;;;A;‰;A - nom sg plen m -
+2;α®­;‘;S m inan nom sg;;;­;®;α;;;;S;‘;S m inan nom sg
+3;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;„ Ά ©;„€‚€’;V ipf - sg imper - 2p;;;©; ;Ά; ;¤;;V;„€‚€’;V ipf - sg imper - 2p
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+6;§ α­γ«;‡€‘“’;V pf praet sg indic m -;;;«;γ;­;α; ;§;V;‡€‘“’;V pf praet sg indic m -
+7;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;®ª § «αο;€‡€’‘;V pf praet sg indic m -;;;ο;α;«; ;§; ;V;€‡€’‘;V pf praet sg indic m -
+3;¤®¬ ;„€;S m inan loc2 sg;;; ;¬;®;¤;;;ADV;„€;ADV -
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;“;“;PR;;;γ;;;;;;PR;“;PR
+2;Άα¥ε;‚…‘;A - loc pl plen - -;;;ε;¥;α;Ά;;;A;‚…‘;A - loc pl plen - -
+3;θ« ;„’;V ipf praet sg indic f -;;; ;«;θ;;;;V;„’;V ipf praet sg indic f -
+4;®΅λη­ ο;›—›‰;A - nom sg plen f -;;;ο; ;­;η;λ;΅;A;›—›‰;A - nom sg plen f -
+5;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¦¨§­μ;†‡;S f inan nom sg;;;μ;­;§;¨;¦;;S;†‡;S f inan nom sg
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¥­ο;;SPRO sg 1p - acc;;;ο;­;¥;¬;;;SPRO;;SPRO sg 1p - acc
+2;―®α« «¨;‘‹€’;V pf praet pl indic - -;;;¨;«; ;«;α;®;V;‘‹€’;V pf praet pl indic - -
+3;α¨¤¥βμ;‘„…’;V ipf - - inf - -;;;μ;β;¥;¤;¨;α;V;‘„…’;V ipf - - inf - -
+4;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+5;¬ θ¨­¥;€€;S f inan loc2 sg;;;¥;­;¨;θ; ;¬;S;€€;S f inan loc sg
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;γΆ¨¤¥«;“‚„…’;V pf praet sg indic m -;;;«;¥;¤;¨;Ά;γ;V;“‚„…’;V pf praet sg indic m -
+3;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+4;― ―μ;€;NONLEX;;;μ;―; ;―;;;NONLEX;€;NONLEX
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¬ ¬μ;€€;S;anom;;μ;¬; ;¬;;;NONLEX;€;NONLEX
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;¬ ¬¨­γ;€;A - gen sg plen f -;;;γ;­;¨;¬; ;¬;A;€;A - acc sg plen f -
+4;¬ θ¨­γ;€€;S f inan acc sg;;;γ;­;¨;θ; ;¬;S;€€;S f inan acc sg
+5;―®α« «¨;‘‹€’;V pf praet pl indic - -;;;¨;«; ;«;α;®;V;‘‹€’;V pf praet pl indic - -
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;Ά¨¤¥«;‚„…’;V ipf praet sg indic m -;;;«;¥;¤;¨;Ά;;V;‚„…’;V ipf praet sg indic m -
+3;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+4;„¨ ­γ;„€€;S f anim persn acc sg;;;γ;­; ;¨;¤;;S;„€€;S f anim acc sg
+5;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+6;― ―¨­®©;€;A - dat sg plen f -;;;©;®;­;¨;―; ;A;€;A - dat sg plen f -
+7;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¬ θ¨­¥;€€;S f inan loc2 sg;;;¥;­;¨;θ; ;¬;S;€€;S f inan dat sg
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3; ;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+4;―®β®¬;’;ADV -;;;¬;®;β;®;―;;ADV;’;ADV -
+5;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+6;α¥«;‘…‘’;V pf praet sg indic;;;«;¥;α;;;;S;‘…‹;S n inan gen pl
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+9;®­ ;€;SPRO sg 3p f nom;;; ;­;®;;;;SPRO;€;SPRO sg 3p f nom
+10;§ ΰ ΅®β « ;‡€€’€’;V pf praet sg indic f -;;; ;«; ;β;®;΅;V;‡€€’€’;V pf praet sg indic f -
+11;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+2;―®β®¬;’;ADV -;;;¬;®;β;®;―;;ADV;’;ADV -
+3;β ¬;’€;ADV -;;;¬; ;β;;;;ADV;’€;ADV -
+4;΅λ« ;›’;V ipf praet sg indic f -;;; ;«;λ;΅;;;V;›’;V ipf praet sg indic f -
+5;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;β ª ο;’€‰;APRO - nom sg plen f -;;;ο; ;ª; ;β;;A;’€‰;A - nom sg plen f -
+2;£®ΰª ;ƒ€;S f inan nom sg;;; ;ª;ΰ;®;£;;S;ƒ€;S f inan nom sg
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+5;®­ ;€;SPRO sg 3p f nom;;; ;­;®;;;;SPRO;€;SPRO sg 3p f nom
+6;αª β¨« αμ;‘€’’‘;V pf praet sg indic f -;;;μ;α; ;«;¨;β;V;‘€’’‘;V pf praet sg indic f -
+7;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;®β®¬;’;ADV -;;;¬;®;β;®;―;;ADV;’;ADV -
+2;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+3;γ― «;“€‘’;V pf praet sg indic m -;;;«; ;―;γ;;;V;“€‘’;V pf praet sg indic m -
+4;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+5;η¥©-β®;—…‰-’;SPRO - nom sg plen m inan;;;®;β;;©;¥;η;A;—…‰-’;A - acc sg plen m inan
+6;¤Ά®ΰ¨ª;„‚;S m inan acc2 sg;;;ª;¨;ΰ;®;Ά;¤;S;„‚;S m inan acc sg
+7;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;’ ¬;’€;ADV -;;;¬; ;β;;;;ADV;’€;ADV -
+2;΅λ«¨;›’;V ipf praet pl indic - -;;;¨;«;λ;΅;;;V;›’;V ipf praet pl indic - -
+3;¬®¨;‰;A - nom pl plen - -;;;¨;®;¬;;;;A;‰;A - nom pl plen - -
+4;¤ΰγ§μο;„“ƒ;S m anim nom pl;;;ο;μ;§;γ;ΰ;¤;S;„“ƒ;S m anim nom pl
+5;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+6;¥ι¥;…™…;ADV -;;;¥;ι;¥;;;;ADV;…™…;ADV -
+7;ª ª ο-β®;€‰-’;APRO - nom sg plen f -;;;®;β;;ο; ;ª;A;€‰-’;A - nom sg plen f -
+8;β¥βο;’…’;S f inan nom sg;;;ο;β;¥;β;;;S;’…’;S f inan nom sg
+9;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;•¬¬;•;INTJ;;;¬;¬;ε;;;;NONLEX;•;NONLEX
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;λ;›;SPRO pl 1p - nom;;;λ;¬;;;;;SPRO;›;SPRO pl 1p - nom
+2;α¨¤¥«¨;‘„…’;V ipf praet pl indic - -;;;¨;«;¥;¤;¨;α;V;‘„…’;V ipf praet pl indic - -
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;¨£ΰ «¨;ƒ€’;V ipf praet pl indic - -;;;¨;«; ;ΰ;£;¨;V;ƒ€’;V ipf praet pl indic - -
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ª ª;€;CONJ;;;ª; ;ª;;;;CONJ;€;CONJ
+2;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+3;θª®«¥;‹€;S f inan loc sg;;;¥;«;®;ª;θ;;S;‹€;S f inan loc sg
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;β®«μª®;’‹;ADV;;;®;ª;μ;«;®;β;PART;’‹;PART
+6;΅¥§;…‡;PR;;;§;¥;΅;;;;PR;…‡;PR
+7;γΰ®ª®Ά;“;S m inan gen pl;;;Ά;®;ª;®;ΰ;γ;S;“;S m inan gen pl
+8;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+2;ª;;PR;;;ª;;;;;;PR;;PR
+3;Ά¥η¥ΰγ;‚…—…;S m inan dat sg;;;γ;ΰ;¥;η;¥;Ά;S;‚…—…;S m inan dat sg
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;β¥βο;’…’;S f inan nom sg;;;ο;β;¥;β;;;S;’…’;S m inan gen sg
+6;β ;’’;SPRO - nom sg plen f -;;; ;β;;;;;A;’’;A - nom sg plen f -
+7;αª § « ;‘€‡€’;V pf praet sg indic f -;;; ;«; ;§; ;ª;V;‘€‡€’;V pf praet sg indic f -
+8;:;:;SENT;;;;;;;;;SENT;:;SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;¨¤γ;„’;V ipf praes sg indic - 1p;;;γ;¤;¨;;;;V;„’;V ipf praes sg indic - 1p
+3;ªΰ α­λε;€‘›‰;A - acc pl plen - -;;;ε;λ;­;α; ;ΰ;A;€‘›‰;A - gen pl plen - -
+4;΅ ΅®η¥ª;€—€;S f anim acc pl;;;ª;¥;η;®;΅; ;S;€—€;S f anim gen pl
+5;«®Ά¨βμ;‹‚’;V ipf - - inf - -;;;μ;β;¨;Ά;®;«;V;‹‚’;V ipf - - inf - -
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7; ;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+8;Άλ;‚›;SPRO pl 2p - nom;;;λ;Ά;;;;;SPRO;‚›;SPRO pl 2p - nom
+9;βγβ;’“’;ADV -;;;β;γ;β;;;;ADV;’“’;ADV -
+10;®αβ ­μβ¥αμ;‘’€’‘;V pf - pl imper - 2p pf;;;μ;α;¥;β;μ;­;V;‘’€’‘;V pf - pl imper - 2p
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+12;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+13;θγ¬¨β¥;“…’;V ipf praes pl indic - 2p;;;¥;β;¨;¬;γ;θ;V;“…’;V ipf praes pl indic - 2p
+14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+15;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+16;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;;;CONJ;;;¨;;;;;;CONJ;;CONJ
+2;βγβ;’“’;ADV -;;;β;γ;β;;;;ADV;’“’;ADV -
+3;ª ª;€;CONJ;;;ª; ;ª;;;;CONJ;€;CONJ
+4;­ η «¨;€—€’;V pf praet pl indic - -;;;¨;«; ;η; ;­;V;€—€’;V pf praet pl indic - -
+5;ΰ¥§Ά¨βμαο;…‡‚’‘;V ipf - - inf - -;;;ο;α;μ;β;¨;Ά;V;…‡‚’‘;V ipf - - inf - -
+6;¬λ.;›.;SPRO pl 1p - nom;;;;λ;¬;;;;SPRO;›.;SPRO pl 1p - nom
+7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+9;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;‘ª § « ;‘€‡€’;V pf praet sg indic f -;;; ;«; ;§; ;ª;V;‘€‡€’;V pf praet sg indic f -
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+4;θγ¬¨β¥;“…’;V ipf praes pl indic - 2p;;;¥;β;¨;¬;γ;θ;V;“…’;V ipf praes pl indic - 2p
+5;!;!;SENT;;;;;;;;;SENT;!;SENT
+;;;;;;;;;;;;;;
+1;€ β®;€ β®;ZERO;;;®;β; ; ;;;ZERO;€ β®;ZERO
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ªΰ α­λε;€‘›‰;A - acc pl plen - -;;;ε;λ;­;α; ;ΰ;A;€‘›‰;A - gen pl plen - -
+2;΅ ΅®η¥ª;€—€;S f anim acc pl;;;ª;¥;η;®;΅; ;S;€—€;S f anim gen pl
+3;ΰ α;€‘;distort;α«¨β­®, distort;;α; ;ΰ;;;;S;€‘€;S f inan gen pl
+4;\;\;PUNC;;;;;;;;;PUNC;\;PUNC
+5;―γ£ ¥β¥;“ƒ€’;V ipf praes pl indic - 2p;;;¥;β;¥; ;£;γ;V;“ƒ€’;V ipf praes pl indic - 2p
+6;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+7;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+8;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;€;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+2;―®β®¬;’;ADV -;;;¬;®;β;®;―;;ADV;’;ADV -
+3;¬λ;›;SPRO pl 1p - nom;;;λ;¬;;;;;SPRO;›;SPRO pl 1p - nom
+4;―®θ«¨...;‰’...;V pf praet pl indic - -;;;;;;¨;«;θ;V;‰’...;V pf praet pl indic - -
+5;ε;•;INTJ;;;ε;ν;;;;;INTJ;•;INTJ
+6;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;λ;›;SPRO pl 1p - nom;;;λ;¬;;;;;SPRO;›;SPRO pl 1p - nom
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;¬λ;›;SPRO pl 1p - nom;;;λ;¬;;;;;SPRO;›;SPRO pl 1p - nom
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;¬λ;›;SPRO pl 1p - nom;;;λ;¬;;;;;SPRO;›;SPRO pl 1p - nom
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;―®θ«¨;‰’;V pf praet pl indic - -;;;¨;«;θ;®;―;;V;‰’;V pf praet pl indic - -
+2;¨£ΰ βμ;ƒ€’;V ipf - - inf - -;;;μ;β; ;ΰ;£;¨;V;ƒ€’;V ipf - - inf - -
+3;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;£ΰ βμ;ƒ€’;V ipf - - inf - -;;;μ;β; ;ΰ;£;¨;V;ƒ€’;V ipf - - inf - -
+2;Ά®;‚;PR;;;®;Ά;;;;;PR;‚;PR
+3;ηβ®-β®;—’-’;SPRO sg;;;®;β;;®;β;η;S;—’-’;S n - acc sg
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;‚α¥;‚‘…;S - - nom pl;;;¥;α;Ά;;;;S;‚‘…;S - - nom pl
+2;¨£ΰ «¨;ƒ€’;V ipf praet pl indic - -;;;¨;«; ;ΰ;£;¨;V;ƒ€’;V ipf praet pl indic - -
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;¨£ΰ «¨;ƒ€’;V ipf praet pl indic - -;;;¨;«; ;ΰ;£;¨;V;ƒ€’;V ipf praet pl indic - -
+5;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1; ..;€..;NONLEX;;;;; ;ª;;;PART;€..;PART
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+4;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+5;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+6;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+7;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+8;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+9;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+10;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+11;α­;‘;NONLEX;distinct;;­;α;;;;;NONLEX;‘;NONLEX
+12;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+13;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+14;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;‘®­;‘;S m inan nom sg;;;­;®;α;;;;S;‘;S m inan nom sg
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;‘®­;‘;S m inan nom sg;;;­;®;α;;;;S;‘;S m inan nom sg
+2;―®¤ε®¤¨«;„•„’;V ipf praet sg indic m -;;;«;¨;¤;®;ε;¤;V;„•„’;V ipf praet sg indic m -
+3;ª®;;PR;;;®;ª;;;;;PR;;PR
+4;α­γ;‘;S m inan dat sg;;;γ;­;α;;;;S;‘;S m inan dat sg
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;ν;;INTJ;;;ν;;;;;;S;;S - - nonflex nonflex
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;ª;;PR;;;ª;;;;;;PR;;PR
+9;ª®­ζγ;…–;S m inan dat sg;;;γ;ζ;­;®;ª;;S;…–;S m inan dat sg
+10;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;®­¥ζ;…–;S m inan nom sg;;;ζ;¥;­;®;ª;;S;…–;S m inan nom sg
+2;α®αβ®ο«;‘‘’’;V ipf praet sg indic m -;;;«;ο;®;β;α;®;V;‘‘’’;V ipf praet sg indic m -
+3;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+4;β®¬;’’;SPRO sg n loc plen;;;¬;®;β;;;;S;’;S n - loc sg
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;ηβ®;—’;CONJ;;;®;β;η;;;;CONJ;—’;CONJ
+7;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+8;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;―®θ¥«;‰’;V pf praet sg indic m -;;;«;¥;θ;®;―;;V;‰’;V pf praet sg indic m -
+2;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+3;βγ;’’;SPRO - acc sg plen f -;;;γ;β;;;;;A;’’;A - acc sg plen f -
+4;ª®¬­ βγ;€’€;S f inan acc sg;;;γ;β; ;­;¬;®;S;€’€;S f inan acc sg
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;β ¬;’€;ADV -;;;¬; ;β;;;;ADV;’€;ADV -
+7;£¤¥;ƒ„…;ADV -;;;¥;¤;£;;;;ADV;ƒ„…;ADV -
+8;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+9;®ª § «αο;€‡€’‘;V pf praet sg indic m -;;;ο;α;«; ;§; ;V;€‡€’‘;V pf praet sg indic m -
+10;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;¥«;…‘’;V ipf praet sg indic m -;;;«;¥;;;;;V;…‘’;V ipf praet sg indic m -
+3;ª θγ;€€;S f inan acc sg;;;γ;θ; ;ª;;;S;€€;S f inan acc sg
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;―®ª ;€;CONJ;;; ;ª;®;―;;;CONJ;€;CONJ
+6;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+7;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;γΆ¨¤¥«;“‚„…’;V pf praet sg indic m -;;;«;¥;¤;¨;Ά;γ;V;“‚„…’;V pf praet sg indic m -
+2;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;«ξθ ;‹€;S m persn anim nom sg;γ¬¥­μθ¨β¥«μ­®-« αª β¥«μ­ ο δ®ΰ¬ ;; ;θ;ξ;«;¨;;S;‹€;S m anim nom sg
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;Άαβ Ά ©;‚‘’€‚€’;V ipf - sg imper - 2p;;;©; ;Ά; ;β;α;V;‚‘’€‚€’;V ipf - sg imper - 2p
+4;!;!;SENT;;;;;;;;;SENT;!;SENT
+;;;;;;;;;;;;;;
+1;€ β®;€ β®;ZERO;;;®;β; ; ;;;ZERO;€ β®;ZERO
+2;θª®«γ;‹€;S f inan acc sg;;;γ;«;®;ª;θ;;S;‹€;S f inan acc sg
+3;―ΰ®―γαβ¨θμ;“‘’’;V pf fut sg indic - 2p;;;μ;θ;¨;β;α;γ;V;“‘’’;V pf fut sg indic - 2p
+4;!;!;PUNC;;;;;;;;;PUNC;!;PUNC
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;’γβ;’“’;ADV -;;;β;γ;β;;;;ADV;’“’;ADV -
+2;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+3;―ΰ®α­γ«αο;‘“’‘;V pf praet sg indic m -;;;ο;α;«;γ;­;α;V;‘“’‘;V pf praet sg indic m -
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;‚¨¦γ;‚„…’;V ipf praes sg indic - 1p;;;γ;¦;¨;Ά;;;V;‚„…’;V ipf praes sg indic - 1p
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3; ;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+4;γ;“;PR;;;γ;;;;;;PR;“;PR
+5;¬¥­ο;;SPRO sg 1p - acc;;;ο;­;¥;¬;;;SPRO;;SPRO sg 1p - acc
+6;ΰγª;“€;S f inan nom sg;distort;;ª;γ;ΰ;;;;S;“€;S f inan gen pl
+7;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;“;“;PR;;;γ;;;;;;PR;“;PR
+2;¬¥­ο;;SPRO sg 1p - acc;;;ο;­;¥;¬;;;SPRO;;SPRO sg 1p - acc
+3;ΰγª ;“€;S f inan nom sg;;; ;ª;γ;ΰ;;;S;“€;S f inan nom sg
+4;¦¥;†…;PART;;;¥;¦;;;;;PART;†…;PART
+5;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;€;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+2;γ;“;PR;;;γ;;;;;;PR;“;PR
+3;¬¥­ο;;SPRO sg 1p - acc;;;ο;­;¥;¬;;;SPRO;;SPRO sg 1p - acc
+4;ΰγª ;“€;S f inan nom sg;;; ;ª;γ;ΰ;;;S;“€;S f inan nom sg
+5;¦¥«¥§­ ο;†…‹…‡›‰;A - nom sg plen f -;;;ο; ;­;§;¥;«;A;†…‹…‡›‰;A - nom sg plen f -
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;β ª;’€;ADV -;;;ª; ;β;;;;ADV;’€;ADV -
+2;―®ª «λΆ « ;€‹›‚€’;V ipf praet sg indic f -;;; ;«; ;Ά;λ;«;V;€‹›‚€’;V ipf praet sg indic f -
+3;Ά®®΅ι¥;‚™…;ADV -;;;¥;ι;΅;®;®;Ά;ADV;‚™…;ADV -
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;‚®β;‚’;PART;;;β;®;Ά;;;;PART;‚’;PART
+2;β ª;’€;ADV -;;;ª; ;β;;;;ADV;’€;ADV -
+3;Ά®β;‚’;PART;;;β;®;Ά;;;;PART;‚’;PART
+4;¤¥« «;„…‹€’;V ipf praet sg indic m -;;;«; ;«;¥;¤;;V;„…‹€’;V ipf praet sg indic m -
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;®­ ;€;SPRO sg 3p f nom;;; ;­;®;;;;SPRO;€;SPRO sg 3p f nom
+7;§ §Ά¥­¥« ;‡€‡‚……’;V pf praet sg indic f -;;; ;«;¥;­;¥;Ά;V;‡€‡‚……’;V pf praet sg indic f -
+8;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+2;―®β®¬;’;ADV -;;;¬;®;β;®;―;;ADV;’;ADV -
+3;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;―®θ¥«;‰’;V pf praet sg indic m -;;;«;¥;θ;®;―;;V;‰’;V pf praet sg indic m -
+3;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+4;θª®«γ;‹€;S f inan acc sg;;;γ;«;®;ª;θ;;S;‹€;S f inan acc sg
+5;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+6;β ª;’€;ADV -;;;ª; ;β;;;;ADV;’€;ADV -
+7;¤ «¥¥;„€‹……;ADV -;;;¥;¥;«; ;¤;;ADV;„€‹……;ADV -
+8;...;...;SENT;;;;;;;;;SENT;...;SENT
+;;;;;;;;;;;;;;
+1;‚α¥;‚‘…;S - - nom pl;;;¥;α;Ά;;;;S;‚‘…;S - - acc pl
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;®¤®¦¤¨;„†„€’;V pf - sg imper - 2p;;;¨;¤;¦;®;¤;®;V;„†„€’;V pf - sg imper - 2p
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5; ;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+6;βλ;’›;SPRO sg 2p - nom;;;λ;β;;;;;SPRO;’›;SPRO sg 2p - nom
+7;Ά®;‚;PR;;;®;Ά;;;;;PR;‚;PR
+8;α­¥;‘;S m inan loc sg;;;¥;­;α;;;;S;‘;S m inan loc sg
+9;―ΰ®α­γ«αο;‘“’‘;V pf praet sg indic m -;;;ο;α;«;γ;­;α;V;‘“’‘;V pf praet sg indic m -
+10;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;¥;…;PART;;;¥;­;;;;;PART;…;PART
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+3;Ά®;‚;PR;;;®;Ά;;;;;PR;‚;PR
+4;α­¥;‘;S m inan loc sg;;;¥;­;α;;;;S;‘;S m inan loc sg
+5;―ΰ®α­γ«αο;‘“’‘;V pf praet sg indic m -;;;ο;α;«;γ;­;α;V;‘“’‘;V pf praet sg indic m -
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;­ οΆγ;€‚“;ADV -;;;γ;Ά;ο; ;­;;ADV;€‚“;ADV -
+3;―ΰ®α­γ«αο;‘“’‘;V pf praet sg indic m -;;;ο;α;«;γ;­;α;V;‘“’‘;V pf praet sg indic m -
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;€;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+4;ª ª;€;ADV -;;;ª; ;ª;;;;ADV;€;ADV -
+5;νβ®;’;INTJ;;;®;β;ν;;;;S;’;S n - nom sg
+6;γ;“;PR;;;γ;;;;;;PR;“;PR
+7;β¥΅ο;’›;SPRO sg 2p - acc;;;ο;΅;¥;β;;;SPRO;’›;SPRO sg 2p - acc
+8;ΰγª ;“€;S f inan nom sg;;; ;ª;γ;ΰ;;;S;“€;S f inan nom sg
+9;§Ά¥­¥« ;‡‚……’;V ipf praet sg indic f -;;; ;«;¥;­;¥;Ά;V;‡‚……’;V ipf praet sg indic f -
+10;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+4;β®;’’;ADVPRO;;;®;β;;;;;CONJ;’;CONJ
+5;γ;“;PR;;;γ;;;;;;PR;“;PR
+6;¬¥­ο;;SPRO sg 1p - acc;;;ο;­;¥;¬;;;SPRO;;SPRO sg 1p - acc
+7;®­ ;€;SPRO sg 3p f nom;;; ;­;®;;;;SPRO;€;SPRO sg 3p f nom
+8;αβ®ο« ;‘’’;V ipf praet sg indic f -;;; ;«;ο;®;β;α;V;‘’’;V ipf praet sg indic f -
+9;­¥―®¤Ά¨¦­®;…„‚†;ADV -;;;®;­;¦;¨;Ά;¤;ADV;…„‚†;ADV -
+10;β ª;’€;ADV -;;;ª; ;β;;;;ADV;’€;ADV -
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+12;ηβ®;—’;CONJ;;;®;β;η;;;;CONJ;—’;CONJ
+13;Ά®®΅ι¥;‚™…;ADV -;;;¥;ι;΅;®;®;Ά;ADV;‚™…;ADV -
+14;αβ « ;‘’€’;V pf praet sg indic f -;;; ;«; ;β;α;;V;‘’€’;V pf praet sg indic f -
+15;¦¥«¥§­®©;†…‹…‡›‰;A - ins sg plen f -;;;©;®;­;§;¥;«;A;†…‹…‡›‰;A - ins sg plen f -
+16;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;€ ;€€;NONLEX;;; ; ;;;;;NONLEX;€€;NONLEX
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;¬¬;;INTJ;;;¬;¬;;;;;S;;S m inan nonflex nonflex
+6;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;ννε;•;INTJ;;;ε;ν;ν;ν;;;S;•;S m inan loc sg
+4;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;‚;‚;PR;;;Ά;;;;;;PR;‚;PR
+2;®΅ι¥¬;™‰;PARENTH;;;¬;¥;ι;΅;®;;A;™‰;A - loc sg plen m -
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;Άα¥;‚…‘;A - acc pl plen - inan;;;¥;α;Ά;;;;A;‚…‘;A - acc pl plen - inan
+5;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;΅νν;;INTJ;;;ν;ν;΅;¬;;;NONLEX;;NONLEX
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;’λ;’›;SPRO sg 2p - nom;;;λ;β;;;;;SPRO;’›;SPRO sg 2p - nom
+2;α«γθ « ;‘‹“€’;V ipf praet sg indic f -;;; ;«; ;θ;γ;«;V;‘‹“€’;V ipf praet sg indic f -
+3;¨«¨;‹;CONJ;;;¨;«;¨;;;;CONJ;‹;CONJ
+4;α­¨¬ « ;‘€’;V ipf praet sg indic f -;;; ;«; ;¬;¨;­;V;‘€’;V ipf praet sg indic f -
+5;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+4; ;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+5;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+6;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+7;¬®£« ;—;V ipf praet sg indic f -;;; ;«;£;®;¬;;V;—;V ipf praet sg indic f -
+8;¤¥« βμ;„…‹€’;V ipf - - inf - -;;;μ;β; ;«;¥;¤;V;„…‹€’;V ipf - - inf - -
+9;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+10;β®;’’;SPRO sg n acc plen;;;®;β;;;;;S;’;S n - nom sg
+11;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+12;β®;’’;SPRO sg n acc plen;;;®;β;;;;;S;’;S n - nom sg
+13;®¤­®Άΰ¥¬¥­­®;„‚……;ADV -;;;®;­;­;¥;¬;¥;ADV;„‚……;ADV -
+14;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+4; ;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+5;ηβ®;—’;SPRO sg;;;®;β;η;;;;S;—’;S n inan acc sg
+6;βλ;’›;SPRO sg 2p - nom;;;λ;β;;;;;SPRO;’›;SPRO sg 2p - nom
+7;¤¥« « ;„…‹€’;V ipf praet sg indic f -;;; ;«; ;«;¥;¤;V;„…‹€’;V ipf praet sg indic f -
+8;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;‚ α¬λα«¥;‚ ‘›‘‹;S m inan loc sg;ΰ §¤¥«μ­®(Ά - PR);;¥;«;α;λ;¬;α;S;‚‘›‘‹;S m inan loc sg
+4;ηβ®;—’;SPRO sg;;;®;β;η;;;;S;—’;S n inan acc sg
+5;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+4;ηβ®;—’;SPRO;;;®;β;η;;;;CONJ;—’;CONJ
+5;βλ;’›;SPRO sg 2p - nom;;;λ;β;;;;;SPRO;’›;SPRO sg 2p - nom
+6;¤¥« « ;„…‹€’;V ipf praet sg indic f -;;; ;«; ;«;¥;¤;V;„…‹€’;V ipf praet sg indic f -
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;α«γθ « ;‘‹“€’;V ipf praet sg indic f -;;; ;«; ;θ;γ;«;V;‘‹“€’;V ipf praet sg indic f -
+9;¨«¨;‹;CONJ;;;¨;«;¨;;;;CONJ;‹;CONJ
+10;α­¨¬ « ;‘€’;V ipf praet sg indic f -;;; ;«; ;¬;¨;­;V;‘€’;V ipf praet sg indic f -
+11;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+4;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+5;α«γθ « ;‘‹“€’;V ipf praet sg indic f -;;; ;«; ;θ;γ;«;V;‘‹“€’;V ipf praet sg indic f -
+6;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+7;α­¨¬ « ;‘€’;V ipf praet sg indic f -;;; ;«; ;¬;¨;­;V;‘€’;V ipf praet sg indic f -
+8;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+2;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+3;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+4;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+5;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+7;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+8;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+9;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+10;¥;…;PART;;;¥;­;;;;;PART;…;PART
+11;§­ ξ...;‡€’...;V ipf praes sg indic - 1p;;;;;;ξ; ;­;V;‡€’...;V ipf praes sg indic - 1p
+12;;;INTJ;;;¬;;;;;;S;;S - - nonflex nonflex
+13;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+14;­γγ..;““..;INTJ;;;;;γ;γ;­;;S;““..;S m inan nonflex nonflex
+15;­γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+17;­ ―ΰ¨¬¥ΰ;€…;PARENTH;;;ΰ;¥;¬;¨;ΰ;―;ADV;€…;ADV -
+18;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+4;§­ ξ;‡€’;V ipf praes sg indic - 1p;;;ξ; ;­;§;;;V;‡€’;V ipf praes sg indic - 1p
+5;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¬¬;;INTJ;;;¬;¬;¬;;;;S;;S n inan loc sg
+2;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+3;§­ ξ;‡€’;V ipf praes sg indic - 1p;;;ξ; ;­;§;;;V;‡€’;V ipf praes sg indic - 1p
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;ηβ®;—’;SPRO sg;;;®;β;η;;;;S;—’;S n - acc sg
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;•¬;•;INTJ;;;¬;ε;;;;;INTJ;•;INTJ
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;†;†;PART;;;¦;;;;;;PART;†;PART
+2;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+3; ª®©;€‰;APRO - nom sg plen m -;;;©;®;ª; ;ª;;A;€‰;A - nom sg plen m -
+4;¦¥;†…;PART;;;¥;¦;;;;;PART;†…;PART
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;ª ª®©;€‰;APRO - nom sg plen f -;;;©;®;ª; ;ª;;A;€‰;A - gen sg plen f -
+7;¦¥..;†…..;PART;;;;;¥;¦;;;PART;†…..;PART
+8; ªγξ;€‰;APRO - acc sg plen f -;;;ξ;γ;ª; ;ª;;A;€‰;A - acc sg plen f -
+9;¦¥;†…;PART;;;¥;¦;;;;;CONJ;†…;CONJ
+10;?!;?!;PUNC;;;;;;;;;PUNC;?!;PUNC
+11;νε;•;INTJ;;;ε;ν;;;;;INTJ;•;INTJ
+12;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;ΰ ααª ¦γ;€‘‘€‡€’;V pf fut sg indic - 1p;;;γ;¦; ;ª;α;α;V;€‘‘€‡€’;V pf fut sg indic - 1p
+2;―ΰ®;;PR;;;®;ΰ;―;;;;PR;;PR
+3;β®;’’;SPRO sg n acc plen;;;®;β;;;;;S;’;S n - acc sg
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;―ΰ®;;PR;;;®;ΰ;―;;;;PR;;PR
+6;β®;’’;SPRO sg n acc plen;;;®;β;;;;;S;’;S n - acc sg
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;―ΰ®;;PR;;;®;ΰ;―;;;;PR;;PR
+9;β®;’’;SPRO sg n acc plen;;;®;β;;;;;S;’;S n - acc sg
+10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+11;―ΰ®;;PR;;;®;ΰ;―;;;;PR;;PR
+12;β®.;’’.;SPRO sg n acc plen;;;;®;β;;;;S;’.;S n inan acc sg
+13;¬¬;;INTJ;;;¬;¬;;;;;INTJ;;INTJ
+14;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+10;―ΰ ;€;PR;distort;; ;ΰ;―;;;;S;€;S f inan nom sg
+11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+13;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;ΰ®;;PR;;;®;ΰ;―;;;;PR;;PR
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;¬®©;‰;A - nom sg plen m -;;;©;®;¬;;;;A;‰;A - nom sg plen m -
+2;α®­;‘;S m inan nom sg;;;­;®;α;;;;S;‘;S m inan nom sg
+3;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;„ Ά ©;„€‚€’;V ipf - sg imper - 2p;;;©; ;Ά; ;¤;;V;„€‚€’;V ipf - sg imper - 2p
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+6;§ α­γ«;‡€‘“’;V pf praet sg indic m -;;;«;γ;­;α; ;§;V;‡€‘“’;V pf praet sg indic m -
+7;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;®ª § «αο;€‡€’‘;V pf praet sg indic m -;;;ο;α;«; ;§; ;V;€‡€’‘;V pf praet sg indic m -
+3;¤®¬ ;„€;S m inan loc2 sg;;; ;¬;®;¤;;;ADV;„€;ADV -
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;“;“;PR;;;γ;;;;;;PR;“;PR
+2;Άα¥ε;‚…‘;A - loc pl plen - -;;;ε;¥;α;Ά;;;A;‚…‘;A - loc pl plen - -
+3;θ« ;„’;V ipf praet sg indic f -;;; ;«;θ;;;;V;„’;V ipf praet sg indic f -
+4;®΅λη­ ο;›—›‰;A - nom sg plen f -;;;ο; ;­;η;λ;΅;A;›—›‰;A - nom sg plen f -
+5;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¦¨§­μ;†‡;S f inan nom sg;;;μ;­;§;¨;¦;;S;†‡;S f inan nom sg
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¥­ο;;SPRO sg 1p - acc;;;ο;­;¥;¬;;;SPRO;;SPRO sg 1p - acc
+2;―®α« «¨;‘‹€’;V pf praet pl indic - -;;;¨;«; ;«;α;®;V;‘‹€’;V pf praet pl indic - -
+3;α¨¤¥βμ;‘„…’;V ipf - - inf - -;;;μ;β;¥;¤;¨;α;V;‘„…’;V ipf - - inf - -
+4;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+5;¬ θ¨­¥;€€;S f inan loc2 sg;;;¥;­;¨;θ; ;¬;S;€€;S f inan loc sg
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;γΆ¨¤¥«;“‚„…’;V pf praet sg indic m -;;;«;¥;¤;¨;Ά;γ;V;“‚„…’;V pf praet sg indic m -
+3;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+4;― ―μ;€;NONLEX;;;μ;―; ;―;;;NONLEX;€;NONLEX
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¬ ¬μ;€€;S;anom;;μ;¬; ;¬;;;NONLEX;€;NONLEX
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;¬ ¬¨­γ;€;A - gen sg plen f -;;;γ;­;¨;¬; ;¬;A;€;A - acc sg plen f -
+4;¬ θ¨­γ;€€;S f inan acc sg;;;γ;­;¨;θ; ;¬;S;€€;S f inan acc sg
+5;―®α« «¨;‘‹€’;V pf praet pl indic - -;;;¨;«; ;«;α;®;V;‘‹€’;V pf praet pl indic - -
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;Ά¨¤¥«;‚„…’;V ipf praet sg indic m -;;;«;¥;¤;¨;Ά;;V;‚„…’;V ipf praet sg indic m -
+3;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+4;„¨ ­γ;„€€;S f anim persn acc sg;;;γ;­; ;¨;¤;;S;„€€;S f anim acc sg
+5;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+6;― ―¨­®©;€;A - dat sg plen f -;;;©;®;­;¨;―; ;A;€;A - dat sg plen f -
+7;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;¬ θ¨­¥;€€;S f inan loc2 sg;;;¥;­;¨;θ; ;¬;S;€€;S f inan dat sg
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3; ;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+4;―®β®¬;’;ADV -;;;¬;®;β;®;―;;ADV;’;ADV -
+5;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+6;α¥«;‘…‘’;V pf praet sg indic;;;«;¥;α;;;;S;‘…‹;S n inan gen pl
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+9;®­ ;€;SPRO sg 3p f nom;;; ;­;®;;;;SPRO;€;SPRO sg 3p f nom
+10;§ ΰ ΅®β « ;‡€€’€’;V pf praet sg indic f -;;; ;«; ;β;®;΅;V;‡€€’€’;V pf praet sg indic f -
+11;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+2;―®β®¬;’;ADV -;;;¬;®;β;®;―;;ADV;’;ADV -
+3;β ¬;’€;ADV -;;;¬; ;β;;;;ADV;’€;ADV -
+4;΅λ« ;›’;V ipf praet sg indic f -;;; ;«;λ;΅;;;V;›’;V ipf praet sg indic f -
+5;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;β ª ο;’€‰;APRO - nom sg plen f -;;;ο; ;ª; ;β;;A;’€‰;A - nom sg plen f -
+2;£®ΰª ;ƒ€;S f inan nom sg;;; ;ª;ΰ;®;£;;S;ƒ€;S f inan nom sg
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+5;®­ ;€;SPRO sg 3p f nom;;; ;­;®;;;;SPRO;€;SPRO sg 3p f nom
+6;αª β¨« αμ;‘€’’‘;V pf praet sg indic f -;;;μ;α; ;«;¨;β;V;‘€’’‘;V pf praet sg indic f -
+7;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;®β®¬;’;ADV -;;;¬;®;β;®;―;;ADV;’;ADV -
+2;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+3;γ― «;“€‘’;V pf praet sg indic m -;;;«; ;―;γ;;;V;“€‘’;V pf praet sg indic m -
+4;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+5;η¥©-β®;—…‰-’;SPRO - nom sg plen m inan;;;®;β;;©;¥;η;A;—…‰-’;A - acc sg plen m inan
+6;¤Ά®ΰ¨ª;„‚;S m inan acc2 sg;;;ª;¨;ΰ;®;Ά;¤;S;„‚;S m inan acc sg
+7;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;’ ¬;’€;ADV -;;;¬; ;β;;;;ADV;’€;ADV -
+2;΅λ«¨;›’;V ipf praet pl indic - -;;;¨;«;λ;΅;;;V;›’;V ipf praet pl indic - -
+3;¬®¨;‰;A - nom pl plen - -;;;¨;®;¬;;;;A;‰;A - nom pl plen - -
+4;¤ΰγ§μο;„“ƒ;S m anim nom pl;;;ο;μ;§;γ;ΰ;¤;S;„“ƒ;S m anim nom pl
+5;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+6;¥ι¥;…™…;ADV -;;;¥;ι;¥;;;;ADV;…™…;ADV -
+7;ª ª ο-β®;€‰-’;APRO - nom sg plen f -;;;®;β;;ο; ;ª;A;€‰-’;A - nom sg plen f -
+8;β¥βο;’…’;S f inan nom sg;;;ο;β;¥;β;;;S;’…’;S f inan nom sg
+9;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;•¬¬;•;INTJ;;;¬;¬;ε;;;;NONLEX;•;NONLEX
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;λ;›;SPRO pl 1p - nom;;;λ;¬;;;;;SPRO;›;SPRO pl 1p - nom
+2;α¨¤¥«¨;‘„…’;V ipf praet pl indic - -;;;¨;«;¥;¤;¨;α;V;‘„…’;V ipf praet pl indic - -
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;¨£ΰ «¨;ƒ€’;V ipf praet pl indic - -;;;¨;«; ;ΰ;£;¨;V;ƒ€’;V ipf praet pl indic - -
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ª ª;€;CONJ;;;ª; ;ª;;;;CONJ;€;CONJ
+2;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+3;θª®«¥;‹€;S f inan loc sg;;;¥;«;®;ª;θ;;S;‹€;S f inan loc sg
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;β®«μª®;’‹;ADV;;;®;ª;μ;«;®;β;PART;’‹;PART
+6;΅¥§;…‡;PR;;;§;¥;΅;;;;PR;…‡;PR
+7;γΰ®ª®Ά;“;S m inan gen pl;;;Ά;®;ª;®;ΰ;γ;S;“;S m inan gen pl
+8;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+2;ª;;PR;;;ª;;;;;;PR;;PR
+3;Ά¥η¥ΰγ;‚…—…;S m inan dat sg;;;γ;ΰ;¥;η;¥;Ά;S;‚…—…;S m inan dat sg
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;β¥βο;’…’;S f inan nom sg;;;ο;β;¥;β;;;S;’…’;S m inan gen sg
+6;β ;’’;SPRO - nom sg plen f -;;; ;β;;;;;A;’’;A - nom sg plen f -
+7;αª § « ;‘€‡€’;V pf praet sg indic f -;;; ;«; ;§; ;ª;V;‘€‡€’;V pf praet sg indic f -
+8;:;:;SENT;;;;;;;;;SENT;:;SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;¨¤γ;„’;V ipf praes sg indic - 1p;;;γ;¤;¨;;;;V;„’;V ipf praes sg indic - 1p
+3;ªΰ α­λε;€‘›‰;A - acc pl plen - -;;;ε;λ;­;α; ;ΰ;A;€‘›‰;A - gen pl plen - -
+4;΅ ΅®η¥ª;€—€;S f anim acc pl;;;ª;¥;η;®;΅; ;S;€—€;S f anim gen pl
+5;«®Ά¨βμ;‹‚’;V ipf - - inf - -;;;μ;β;¨;Ά;®;«;V;‹‚’;V ipf - - inf - -
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7; ;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+8;Άλ;‚›;SPRO pl 2p - nom;;;λ;Ά;;;;;SPRO;‚›;SPRO pl 2p - nom
+9;βγβ;’“’;ADV -;;;β;γ;β;;;;ADV;’“’;ADV -
+10;®αβ ­μβ¥αμ;‘’€’‘;V pf - pl imper - 2p pf;;;μ;α;¥;β;μ;­;V;‘’€’‘;V pf - pl imper - 2p
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+12;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+13;θγ¬¨β¥;“…’;V ipf praes pl indic - 2p;;;¥;β;¨;¬;γ;θ;V;“…’;V ipf praes pl indic - 2p
+14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+15;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+16;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;;;CONJ;;;¨;;;;;;CONJ;;CONJ
+2;βγβ;’“’;ADV -;;;β;γ;β;;;;ADV;’“’;ADV -
+3;ª ª;€;CONJ;;;ª; ;ª;;;;CONJ;€;CONJ
+4;­ η «¨;€—€’;V pf praet pl indic - -;;;¨;«; ;η; ;­;V;€—€’;V pf praet pl indic - -
+5;ΰ¥§Ά¨βμαο;…‡‚’‘;V ipf - - inf - -;;;ο;α;μ;β;¨;Ά;V;…‡‚’‘;V ipf - - inf - -
+6;¬λ.;›.;SPRO pl 1p - nom;;;;λ;¬;;;;SPRO;›.;SPRO pl 1p - nom
+7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+9;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;‘ª § « ;‘€‡€’;V pf praet sg indic f -;;; ;«; ;§; ;ª;V;‘€‡€’;V pf praet sg indic f -
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+4;θγ¬¨β¥;“…’;V ipf praes pl indic - 2p;;;¥;β;¨;¬;γ;θ;V;“…’;V ipf praes pl indic - 2p
+5;!;!;SENT;;;;;;;;;SENT;!;SENT
+;;;;;;;;;;;;;;
+1;€ β®;€ β®;ZERO;;;®;β; ; ;;;ZERO;€ β®;ZERO
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ªΰ α­λε;€‘›‰;A - acc pl plen - -;;;ε;λ;­;α; ;ΰ;A;€‘›‰;A - gen pl plen - -
+2;΅ ΅®η¥ª;€—€;S f anim acc pl;;;ª;¥;η;®;΅; ;S;€—€;S f anim gen pl
+3;ΰ α;€‘;distort;α«¨β­®, distort;;α; ;ΰ;;;;S;€‘€;S f inan gen pl
+4;\;\;PUNC;;;;;;;;;PUNC;\;PUNC
+5;―γ£ ¥β¥;“ƒ€’;V ipf praes pl indic - 2p;;;¥;β;¥; ;£;γ;V;“ƒ€’;V ipf praes pl indic - 2p
+6;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+7;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+8;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;€;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+2;―®β®¬;’;ADV -;;;¬;®;β;®;―;;ADV;’;ADV -
+3;¬λ;›;SPRO pl 1p - nom;;;λ;¬;;;;;SPRO;›;SPRO pl 1p - nom
+4;―®θ«¨...;‰’...;V pf praet pl indic - -;;;;;;¨;«;θ;V;‰’...;V pf praet pl indic - -
+5;ε;•;INTJ;;;ε;ν;;;;;INTJ;•;INTJ
+6;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;λ;›;SPRO pl 1p - nom;;;λ;¬;;;;;SPRO;›;SPRO pl 1p - nom
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;¬λ;›;SPRO pl 1p - nom;;;λ;¬;;;;;SPRO;›;SPRO pl 1p - nom
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;¬λ;›;SPRO pl 1p - nom;;;λ;¬;;;;;SPRO;›;SPRO pl 1p - nom
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;―®θ«¨;‰’;V pf praet pl indic - -;;;¨;«;θ;®;―;;V;‰’;V pf praet pl indic - -
+2;¨£ΰ βμ;ƒ€’;V ipf - - inf - -;;;μ;β; ;ΰ;£;¨;V;ƒ€’;V ipf - - inf - -
+3;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;£ΰ βμ;ƒ€’;V ipf - - inf - -;;;μ;β; ;ΰ;£;¨;V;ƒ€’;V ipf - - inf - -
+2;Ά®;‚;PR;;;®;Ά;;;;;PR;‚;PR
+3;ηβ®-β®;—’-’;SPRO sg;;;®;β;;®;β;η;S;—’-’;S n - acc sg
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;‚α¥;‚‘…;S - - nom pl;;;¥;α;Ά;;;;S;‚‘…;S - - nom pl
+2;¨£ΰ «¨;ƒ€’;V ipf praet pl indic - -;;;¨;«; ;ΰ;£;¨;V;ƒ€’;V ipf praet pl indic - -
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;¨£ΰ «¨;ƒ€’;V ipf praet pl indic - -;;;¨;«; ;ΰ;£;¨;V;ƒ€’;V ipf praet pl indic - -
+5;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1; ..;€..;NONLEX;;;;; ;ª;;;PART;€..;PART
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+4;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+5;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+6;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+7;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+8;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+9;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+10;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+11;α­;‘;NONLEX;distinct;;­;α;;;;;NONLEX;‘;NONLEX
+12;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+13;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+14;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;‘®­;‘;S m inan nom sg;;;­;®;α;;;;S;‘;S m inan nom sg
+2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+4;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;‘®­;‘;S m inan nom sg;;;­;®;α;;;;S;‘;S m inan nom sg
+2;―®¤ε®¤¨«;„•„’;V ipf praet sg indic m -;;;«;¨;¤;®;ε;¤;V;„•„’;V ipf praet sg indic m -
+3;ª®;;PR;;;®;ª;;;;;PR;;PR
+4;α­γ;‘;S m inan dat sg;;;γ;­;α;;;;S;‘;S m inan dat sg
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;ν;;INTJ;;;ν;;;;;;S;;S - - nonflex nonflex
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;ª;;PR;;;ª;;;;;;PR;;PR
+9;ª®­ζγ;…–;S m inan dat sg;;;γ;ζ;­;®;ª;;S;…–;S m inan dat sg
+10;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;®­¥ζ;…–;S m inan nom sg;;;ζ;¥;­;®;ª;;S;…–;S m inan nom sg
+2;α®αβ®ο«;‘‘’’;V ipf praet sg indic m -;;;«;ο;®;β;α;®;V;‘‘’’;V ipf praet sg indic m -
+3;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+4;β®¬;’’;SPRO sg n loc plen;;;¬;®;β;;;;S;’;S n - loc sg
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;ηβ®;—’;SPRO;;;®;β;η;;;;CONJ;—’;CONJ
+7;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+8;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;―®θ¥«;‰’;V pf praet sg indic m -;;;«;¥;θ;®;―;;V;‰’;V pf praet sg indic m -
+2;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+3;βγ;’’;SPRO - acc sg plen f -;;;γ;β;;;;;A;’’;A - acc sg plen f -
+4;ª®¬­ βγ;€’€;S f inan acc sg;;;γ;β; ;­;¬;®;S;€’€;S f inan acc sg
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;β ¬;’€;ADV -;;;¬; ;β;;;;ADV;’€;ADV -
+7;£¤¥;ƒ„…;ADV -;;;¥;¤;£;;;;ADV;ƒ„…;ADV -
+8;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+9;®ª § «αο;€‡€’‘;V pf praet sg indic m -;;;ο;α;«; ;§; ;V;€‡€’‘;V pf praet sg indic m -
+10;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;¥«;…‘’;V ipf praet sg indic m -;;;«;¥;;;;;V;…‘’;V ipf praet sg indic m -
+3;ª θγ;€€;S f inan acc sg;;;γ;θ; ;ª;;;S;€€;S f inan acc sg
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;―®ª ;€;CONJ;;; ;ª;®;―;;;CONJ;€;CONJ
+6;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+7;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;γΆ¨¤¥«;“‚„…’;V pf praet sg indic m -;;;«;¥;¤;¨;Ά;γ;V;“‚„…’;V pf praet sg indic m -
+2;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+4;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+5;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;«ξθ ;‹€;S m persn anim nom sg;γ¬¥­μθ¨β¥«μ­®-« αª β¥«μ­ ο δ®ΰ¬ ;; ;θ;ξ;«;¨;;S;‹€;S m anim nom sg
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3;Άαβ Ά ©;‚‘’€‚€’;V ipf - sg imper - 2p;;;©; ;Ά; ;β;α;V;‚‘’€‚€’;V ipf - sg imper - 2p
+4;!;!;SENT;;;;;;;;;SENT;!;SENT
+;;;;;;;;;;;;;;
+1;€ β®;€ β®;ZERO;;;®;β; ; ;;;ZERO;€ β®;ZERO
+2;θª®«γ;‹€;S f inan acc sg;;;γ;«;®;ª;θ;;S;‹€;S f inan acc sg
+3;―ΰ®―γαβ¨θμ;“‘’’;V pf fut sg indic - 2p;;;μ;θ;¨;β;α;γ;V;“‘’’;V pf fut sg indic - 2p
+4;!;!;PUNC;;;;;;;;;PUNC;!;PUNC
+5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+6;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+7;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;’γβ;’“’;ADV -;;;β;γ;β;;;;ADV;’“’;ADV -
+2;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+3;―ΰ®α­γ«αο;‘“’‘;V pf praet sg indic m -;;;ο;α;«;γ;­;α;V;‘“’‘;V pf praet sg indic m -
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;‚¨¦γ;‚„…’;V ipf praes sg indic - 1p;;;γ;¦;¨;Ά;;;V;‚„…’;V ipf praes sg indic - 1p
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+3; ;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+4;γ;“;PR;;;γ;;;;;;PR;“;PR
+5;¬¥­ο;;SPRO sg 1p - acc;;;ο;­;¥;¬;;;SPRO;;SPRO sg 1p - acc
+6;ΰγª;“€;S f inan nom sg;distort;;ª;γ;ΰ;;;;S;“€;S f inan gen pl
+7;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;“;“;PR;;;γ;;;;;;PR;“;PR
+2;¬¥­ο;;SPRO sg 1p - acc;;;ο;­;¥;¬;;;SPRO;;SPRO sg 1p - acc
+3;ΰγª ;“€;S f inan nom sg;;; ;ª;γ;ΰ;;;S;“€;S f inan nom sg
+4;¦¥;†…;PART;;;¥;¦;;;;;PART;†…;PART
+5;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;€;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+2;γ;“;PR;;;γ;;;;;;PR;“;PR
+3;¬¥­ο;;SPRO sg 1p - acc;;;ο;­;¥;¬;;;SPRO;;SPRO sg 1p - acc
+4;ΰγª ;“€;S f inan nom sg;;; ;ª;γ;ΰ;;;S;“€;S f inan nom sg
+5;¦¥«¥§­ ο;†…‹…‡›‰;A - nom sg plen f -;;;ο; ;­;§;¥;«;A;†…‹…‡›‰;A - nom sg plen f -
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+7;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;β ª;’€;ADV -;;;ª; ;β;;;;ADV;’€;ADV -
+2;―®ª «λΆ « ;€‹›‚€’;V ipf praet sg indic f -;;; ;«; ;Ά;λ;«;V;€‹›‚€’;V ipf praet sg indic f -
+3;Ά®®΅ι¥;‚™…;ADV -;;;¥;ι;΅;®;®;Ά;ADV;‚™…;ADV -
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;‚®β;‚’;PART;;;β;®;Ά;;;;PART;‚’;PART
+2;β ª;’€;ADV -;;;ª; ;β;;;;ADV;’€;ADV -
+3;Ά®β;‚’;PART;;;β;®;Ά;;;;PART;‚’;PART
+4;¤¥« «;„…‹€’;V ipf praet sg indic m -;;;«; ;«;¥;¤;;V;„…‹€’;V ipf praet sg indic m -
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+6;®­ ;€;SPRO sg 3p f nom;;; ;­;®;;;;SPRO;€;SPRO sg 3p f nom
+7;§ §Ά¥­¥« ;‡€‡‚……’;V pf praet sg indic f -;;; ;«;¥;­;¥;Ά;V;‡€‡‚……’;V pf praet sg indic f -
+8;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+2;―®β®¬;’;ADV -;;;¬;®;β;®;―;;ADV;’;ADV -
+3;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;―®θ¥«;‰’;V pf praet sg indic m -;;;«;¥;θ;®;―;;V;‰’;V pf praet sg indic m -
+3;Ά;‚;PR;;;Ά;;;;;;PR;‚;PR
+4;θª®«γ;‹€;S f inan acc sg;;;γ;«;®;ª;θ;;S;‹€;S f inan acc sg
+5;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+6;β ª;’€;ADV -;;;ª; ;β;;;;ADV;’€;ADV -
+7;¤ «¥¥;„€‹……;ADV -;;;¥;¥;«; ;¤;;ADV;„€‹……;ADV -
+8;...;...;SENT;;;;;;;;;SENT;...;SENT
+;;;;;;;;;;;;;;
+1;‚α¥;‚‘…;S - - nom pl;;;¥;α;Ά;;;;S;‚‘…;S - - acc pl
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;®¤®¦¤¨;„†„€’;V pf - sg imper - 2p;;;¨;¤;¦;®;¤;®;V;„†„€’;V pf - sg imper - 2p
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5; ;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+6;βλ;’›;SPRO sg 2p - nom;;;λ;β;;;;;SPRO;’›;SPRO sg 2p - nom
+7;Ά®;‚;PR;;;®;Ά;;;;;PR;‚;PR
+8;α­¥;‘;S m inan loc sg;;;¥;­;α;;;;S;‘;S m inan loc sg
+9;―ΰ®α­γ«αο;‘“’‘;V pf praet sg indic m -;;;ο;α;«;γ;­;α;V;‘“’‘;V pf praet sg indic m -
+10;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;¥;…;PART;;;¥;­;;;;;PART;…;PART
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+3;Ά®;‚;PR;;;®;Ά;;;;;PR;‚;PR
+4;α­¥;‘;S m inan loc sg;;;¥;­;α;;;;S;‘;S m inan loc sg
+5;―ΰ®α­γ«αο;‘“’‘;V pf praet sg indic m -;;;ο;α;«;γ;­;α;V;‘“’‘;V pf praet sg indic m -
+6;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+2;­ οΆγ;€‚“;ADV -;;;γ;Ά;ο; ;­;;ADV;€‚“;ADV -
+3;―ΰ®α­γ«αο;‘“’‘;V pf praet sg indic m -;;;ο;α;«;γ;­;α;V;‘“’‘;V pf praet sg indic m -
+4;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;€;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+4;ª ª;€;ADV -;;;ª; ;ª;;;;ADV;€;ADV -
+5;νβ®;’;INTJ;;;®;β;ν;;;;S;’;S n - nom sg
+6;γ;“;PR;;;γ;;;;;;PR;“;PR
+7;β¥΅ο;’›;SPRO sg 2p - acc;;;ο;΅;¥;β;;;SPRO;’›;SPRO sg 2p - acc
+8;ΰγª ;“€;S f inan nom sg;;; ;ª;γ;ΰ;;;S;“€;S f inan nom sg
+9;§Ά¥­¥« ;‡‚……’;V ipf praet sg indic f -;;; ;«;¥;­;¥;Ά;V;‡‚……’;V ipf praet sg indic f -
+10;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+4;β®;’’;ADVPRO;;;®;β;;;;;CONJ;’;CONJ
+5;γ;“;PR;;;γ;;;;;;PR;“;PR
+6;¬¥­ο;;SPRO sg 1p - acc;;;ο;­;¥;¬;;;SPRO;;SPRO sg 1p - acc
+7;®­ ;€;SPRO sg 3p f nom;;; ;­;®;;;;SPRO;€;SPRO sg 3p f nom
+8;αβ®ο« ;‘’’;V ipf praet sg indic f -;;; ;«;ο;®;β;α;V;‘’’;V ipf praet sg indic f -
+9;­¥―®¤Ά¨¦­®;…„‚†;ADV -;;;®;­;¦;¨;Ά;¤;ADV;…„‚†;ADV -
+10;β ª;’€;ADV -;;;ª; ;β;;;;ADV;’€;ADV -
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+12;ηβ®;—’;CONJ;;;®;β;η;;;;CONJ;—’;CONJ
+13;Ά®®΅ι¥;‚™…;ADV -;;;¥;ι;΅;®;®;Ά;ADV;‚™…;ADV -
+14;αβ « ;‘’€’;V pf praet sg indic f -;;; ;«; ;β;α;;V;‘’€’;V pf praet sg indic f -
+15;¦¥«¥§­®©;†…‹…‡›‰;A - ins sg plen f -;;;©;®;­;§;¥;«;A;†…‹…‡›‰;A - ins sg plen f -
+16;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;€ ;€€;NONLEX;;; ; ;;;;;NONLEX;€€;NONLEX
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+5;¬¬;;INTJ;;;¬;¬;;;;;S;;S m inan nonflex nonflex
+6;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;ννε;•;INTJ;;;ε;ν;ν;ν;;;S;•;S m inan loc sg
+4;..;..;SENT;;;;;;;;;SENT;..;SENT
+;;;;;;;;;;;;;;
+1;‚;‚;PR;;;Ά;;;;;;PR;‚;PR
+2;®΅ι¥¬;™‰;PARENTH;;;¬;¥;ι;΅;®;;A;™‰;A - loc sg plen m -
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+4;Άα¥;‚…‘;A - acc pl plen - inan;;;¥;α;Ά;;;;A;‚…‘;A - acc pl plen - inan
+5;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;΅νν;;INTJ;;;ν;ν;΅;¬;;;NONLEX;;NONLEX
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;’λ;’›;SPRO sg 2p - nom;;;λ;β;;;;;SPRO;’›;SPRO sg 2p - nom
+2;α«γθ « ;‘‹“€’;V ipf praet sg indic f -;;; ;«; ;θ;γ;«;V;‘‹“€’;V ipf praet sg indic f -
+3;¨«¨;‹;CONJ;;;¨;«;¨;;;;CONJ;‹;CONJ
+4;α­¨¬ « ;‘€’;V ipf praet sg indic f -;;; ;«; ;¬;¨;­;V;‘€’;V ipf praet sg indic f -
+5;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+4; ;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+5;ο;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+6;­¥;…;PART;;;¥;­;;;;;PART;…;PART
+7;¬®£« ;—;V ipf praet sg indic f -;;; ;«;£;®;¬;;V;—;V ipf praet sg indic f -
+8;¤¥« βμ;„…‹€’;V ipf - - inf - -;;;μ;β; ;«;¥;¤;V;„…‹€’;V ipf - - inf - -
+9;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+10;β®;’’;SPRO sg n acc plen;;;®;β;;;;;S;’;S n - nom sg
+11;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+12;β®;’’;SPRO sg n acc plen;;;®;β;;;;;S;’;S n - nom sg
+13;®¤­®Άΰ¥¬¥­­®;„‚……;ADV -;;;®;­;­;¥;¬;¥;ADV;„‚……;ADV -
+14;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+4; ;€;CONJ;;; ;;;;;;CONJ;€;CONJ
+5;ηβ®;—’;SPRO sg;;;®;β;η;;;;S;—’;S n inan acc sg
+6;βλ;’›;SPRO sg 2p - nom;;;λ;β;;;;;SPRO;’›;SPRO sg 2p - nom
+7;¤¥« « ;„…‹€’;V ipf praet sg indic f -;;; ;«; ;«;¥;¤;V;„…‹€’;V ipf praet sg indic f -
+8;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;‚ α¬λα«¥;‚ ‘›‘‹;S m inan loc sg;ΰ §¤¥«μ­®(Ά - PR);;¥;«;α;λ;¬;α;S;‚‘›‘‹;S m inan loc sg
+4;ηβ®;—’;SPRO sg;;;®;β;η;;;;S;—’;S n inan acc sg
+5;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;«μο;‹;S m persn anim nom sg;;;ο;μ;«;¨;;;S;‹;S m anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;γ;“;INTJ;;;γ;­;;;;;PART;“;PART
+4;ηβ®;—’;CONJ;;;®;β;η;;;;CONJ;—’;CONJ
+5;βλ;’›;SPRO sg 2p - nom;;;λ;β;;;;;SPRO;’›;SPRO sg 2p - nom
+6;¤¥« « ;„…‹€’;V ipf praet sg indic f -;;; ;«; ;«;¥;¤;V;„…‹€’;V ipf praet sg indic f -
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+8;α«γθ « ;‘‹“€’;V ipf praet sg indic f -;;; ;«; ;θ;γ;«;V;‘‹“€’;V ipf praet sg indic f -
+9;¨«¨;‹;CONJ;;;¨;«;¨;;;;CONJ;‹;CONJ
+10;α­¨¬ « ;‘€’;V ipf praet sg indic f -;;; ;«; ;¬;¨;­;V;‘€’;V ipf praet sg indic f -
+11;?;?;SENT;;;;;;;;;SENT;?;SENT
+;;;;;;;;;;;;;;
+1;€­ αβ α¨ο;€€‘’€‘;S f anim nom sg;;;ο;¨;α; ;β;α;S;€€‘’€‘;S f anim nom sg
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+3;;;SPRO sg 1p - nom;;;ο;;;;;;SPRO;;SPRO sg 1p - nom
+4;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+5;α«γθ « ;‘‹“€’;V ipf praet sg indic f -;;; ;«; ;θ;γ;«;V;‘‹“€’;V ipf praet sg indic f -
+6;¨;;CONJ;;;¨;;;;;;CONJ;;CONJ
+7;α­¨¬ « ;‘€’;V ipf praet sg indic f -;;; ;«; ;¬;¨;­;V;‘€’;V ipf praet sg indic f -
+8;.;.;SENT;;;;;;;;;SENT;.;SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+3;";";";";SENT;;;;;;;;;SENT;";";SENT
+;;;;;;;;;;;;;;
+1;dd5c0bb6b1a2fad27ae78ff4b5f4fe9609cdc2d9;DD5C0BB6B1A2FAD27AE78FF4B5F4FE9609CDC2D9;NONLEX;;;;;;;;;NONLEX;DD5C0BB6B1A2FAD27AE78FF4B5F4FE9609CDC2D9;NONLEX
+2;.;.;SENT;;;;;;;;;SENT;.;SENT
